@@ -1,0 +1,55 @@
+h1 {
+  color: blue;
+  font-weight:bold;
+  font-size: 50px;
+  text-align: center;
+  fo
+}
+h2 {
+  color: green ;
+  font-size: 30px;
+  text-align: center;
+}
+
+h3{color:rgb(0, 128, 68);
+font-size: 25px;}
+p {font-size:20px;
+  text-align: justify;
+}
+body {
+  background-color: cornflowerblue;
+}
+img {
+  width: 80%;
+  
+}
+.box {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.hijo {
+  padding: 30px;
+  width: 50%;
+}
+
+.lista-desordenada {
+  list-style-type: square;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.numero {
+  color: blue;
+}
+.lista {
+  width: 100%;
+  background-color: rgb(16, 207, 16);
+  display: flex;
+}
+.lista2{width: 60%;
+  font-size: 25px;
+  list-style-type:none;
+}
